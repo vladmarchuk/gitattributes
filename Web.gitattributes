@@ -24,6 +24,7 @@
 *.inc      text
 *.ini      text
 *.js       text
+*.vue      text
 *.json     text
 *.jsx      text
 *.less     text
